@@ -3,6 +3,7 @@ class Pattern5
 	public static void main(String[] args)
 	{
 		int row=4;
+		int col=4;
 		pattern(row);	
 	}
 
