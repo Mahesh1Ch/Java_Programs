@@ -43,8 +43,8 @@ public class EmpMain
 	public static void main(String args[])
 	{
 
-		Emp emp1 = new Emp(1000,"AAA",9999999999l);
-		Emp emp2 = new Emp(1000,"AAA",9999999999l);
+		Emp emp1 = new Emp(1000,"AAA",99999999992);
+		Emp emp2 = new Emp(1000,"AAA",99999999992);
 		System.out.println(emp1);
 		System.out.println(emp1);
 		System.out.println(emp1.hashCode());

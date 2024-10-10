@@ -9,6 +9,7 @@ class ArrayList2
 		al.add('C');
 		al.add("C");
 		al.add(30);
+		al.add(20);
 
 		System.out.println(al);
 		al.remove(Integer.valueOf(30));
