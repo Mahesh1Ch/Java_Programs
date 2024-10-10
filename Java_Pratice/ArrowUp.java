@@ -2,7 +2,7 @@ class ArrowUp
 {
 	public static void main(String[] args)
 	{
-		int row = 5;
+		int row = 7;
 
 		pattern(row);	
 	}
